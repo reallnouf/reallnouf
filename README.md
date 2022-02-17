@@ -1,6 +1,5 @@
 - 👋 Hi, I’m cybersecurity student
 - 👀 I’m interested in data mining & hacking and robots 
-- 🌱 I’m currently working on an application
 - 💞️ I’m looking to collaborate on open source coding
 - 📫 You can reach me anytime noufabdulaziz096@gmail.com
 
